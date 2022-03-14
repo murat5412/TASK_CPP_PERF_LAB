@@ -1,0 +1,4 @@
+﻿  task4.cpp
+C:\Users\GL62M\source\repos\task4\task4.cpp(10,37): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\GL62M\source\repos\task4\task4.cpp(13,21): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  task4.vcxproj -> C:\Users\GL62M\source\repos\task4\x64\Debug\task4.exe
